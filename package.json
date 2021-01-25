@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Player IG Mods/Drip#6575",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1",
     "discord.js-commando": "github:Drip571/Commando",
