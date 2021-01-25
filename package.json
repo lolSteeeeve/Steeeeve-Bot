@@ -1,0 +1,18 @@
+{
+  "name": "steeeeve-bot",
+  "version": "1.0.2",
+  "description": "A Discord Bot Coded With Discord.js using the Commando Command Framework",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Player IG Mods/Drip#6575",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:Drip571/Commando",
+    "html-entities": "^2.0.6",
+    "moment": "^2.29.1",
+    "node-superfetch": "^0.1.10"
+  }
+}
